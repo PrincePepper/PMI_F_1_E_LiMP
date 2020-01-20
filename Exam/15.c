@@ -1,4 +1,6 @@
-//
-// Created by User on 21.01.2020.
-//
+#include <stdio.h>
 
+int main() {
+    int a=0;
+   scanf("%d", &a);
+}
