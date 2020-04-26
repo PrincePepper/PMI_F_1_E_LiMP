@@ -6,7 +6,7 @@ examLiMP
 1. [Telegram](https://tgmsg.ru/princepepper)
 2. [Вконтакте](https://vk.com/princepepper)
 3. [Instargam](https://www.instagram.com/prince_pepper_official/?hl=ru)
-4. [Мой сайт](http://www.ppts.website/)(в разработке)
+4. [Мой сайт](https://ssereda.ru/)(в разработке)
 
 ##### Полезные ссылки:
 * [Dpaste](https://dpaste.de/) - предназначен для передачи кода
